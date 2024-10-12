@@ -15,17 +15,17 @@ This project aims to perform a comprehensive data analysis of a university Whats
 
 ## Technologies Used
 
-* Python: Core language used for data analysis.
+* **Python:** Core language used for data analysis.
   
-* pandas: For data manipulation and cleaning.
+* **pandas:** For data manipulation and cleaning.
   
-* matplotlib: For creating static, animated, and interactive visualizations.
+* **matplotlib:** For creating static, animated, and interactive visualizations.
   
-* seaborn: For data visualization based on matplotlib.
+* **seaborn:** For data visualization based on matplotlib.
   
-* wordcloud: For generating word cloud images to visualize popular words.
+* **wordcloud:** For generating word cloud images to visualize popular words.
   
-* Jupyter Notebook: For interactive coding and documentation.
+* **Jupyter Notebook:** For interactive coding and documentation.
 
 
 ## Objectives
@@ -48,59 +48,62 @@ This project focuses on the following key objectives:
 
 ## Data Analysis Workflow
 
-Data Collection: Export the WhatsApp group chat data in .txt format.
+**Data Collection:** Export the WhatsApp group chat data in .txt format.
 
-Data Preprocessing: Clean the text data to remove unnecessary characters, symbols, and non-message lines.
+**Data Preprocessing:** Clean the text data to remove unnecessary characters, symbols, and non-message lines.
 
-Exploratory Data Analysis (EDA): 
+**Exploratory Data Analysis (EDA):**
 - Visualize message frequency over days, hours, and months.
 - Identify user activity trends and top contributors.
 - Use word clouds to extract popular words.
 
-Result Interpretation: Generate insights based on the visualizations.
+**Result Interpretation:** Generate insights based on the visualizations.
 
-Report Findings: Summarize findings, trends, and conclusions in a final report.
+**Report Findings:** Summarize findings, trends, and conclusions in a final report.
 
 ## Setup and Installation
 
 Follow these steps to set up the project locally:
 
-Clone the repository:
+**Clone the repository:**
 
-bash
-Copy code
+```
 git clone https://github.com/your-username/whatsapp-ride-share-analysis.git
-Install dependencies: Use pip to install the required packages:
 
-bash
-Copy code
+```
+**Install dependencies: Use pip to install the required packages:**
+```
 pip install pandas matplotlib seaborn wordcloud
+```
 
-Prepare the WhatsApp chat file:
+**Prepare the WhatsApp chat file:**
+
+Data : As the data is from a private WhatsApp Chat group, I can't Upload it but you can request it to me through Email by Stating your purpose.
 Export the WhatsApp group chat in .txt format.
 Save it in the data/ directory as whatsapp_chat.txt.
-Run the Jupyter Notebook:
 
-bash
-Copy code
+**Run the Jupyter Notebook:**
+```
 jupyter notebook whatsapp_analysis.ipynb
+```
 
 ## Results
 
-Message Frequency: Insights on the total number of messages sent over specific periods.
+**Message Frequency:** Insights on the total number of messages sent over specific periods.
 
-Most Active Days: Identification of days with the highest group activity.
+**Most Active Days:** Identification of days with the highest group activity.
 
-Top Users: A list of the most active members in the group.
+**Top Users:** A list of the most active members in the group.
 
-Popular Words: A word cloud visualization showing the most common words and phrases.
+**Popular Words:** A word cloud visualization showing the most common words and phrases.
 
-Frequent Locations: Analysis of locations where most ride-sharing occurs.
+**Frequent Locations:** Analysis of locations where most ride-sharing occurs.
 
 
 ## Contributors
 
 Aniket Bharthi - Project Developer
+Email : aniketbharthi7822@gmail.com
 
 ## License
 
