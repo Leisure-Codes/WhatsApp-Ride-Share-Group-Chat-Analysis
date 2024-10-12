@@ -87,6 +87,7 @@ Save it in the data/ directory as whatsapp_chat.txt.
 jupyter notebook whatsapp_analysis.ipynb
 ```
 
+
 ## Results
 
 **Message Frequency:** Insights on the total number of messages sent over specific periods.
@@ -100,9 +101,11 @@ jupyter notebook whatsapp_analysis.ipynb
 **Frequent Locations:** Analysis of locations where most ride-sharing occurs.
 
 
+
 ## Contributors
 
 Aniket Bharthi - Project Developer
+
 Email : aniketbharthi7822@gmail.com
 
 ## License
