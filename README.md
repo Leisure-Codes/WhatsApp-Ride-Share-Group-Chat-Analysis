@@ -52,11 +52,10 @@ Data Collection: Export the WhatsApp group chat data in .txt format.
 
 Data Preprocessing: Clean the text data to remove unnecessary characters, symbols, and non-message lines.
 
-Exploratory Data Analysis (EDA):
-
-Visualize message frequency over days, hours, and months.
-Identify user activity trends and top contributors.
-Use word clouds to extract popular words.
+Exploratory Data Analysis (EDA): 
+- Visualize message frequency over days, hours, and months.
+- Identify user activity trends and top contributors.
+- Use word clouds to extract popular words.
 
 Result Interpretation: Generate insights based on the visualizations.
 
