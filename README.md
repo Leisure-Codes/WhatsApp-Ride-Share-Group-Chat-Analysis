@@ -6,17 +6,11 @@ This project aims to perform a comprehensive data analysis of a university Whats
 ## Table of Contents
 
 - Project Overview
-- 
 - Technologies Used
-- 
 - Objectives
-- 
 - Data Analysis Workflow
-- 
 - Setup and Installation
-- 
 - Results
-- 
 - License
 
 ## Technologies Used
